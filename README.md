@@ -1,2 +1,2 @@
 # VS-Code
-Python Files
+Python Small Daily Projects.
